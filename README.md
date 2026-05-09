@@ -1,1 +1,1 @@
-# python-leaning-note
+# python-learning-note
