@@ -16,3 +16,11 @@ age = 20
 
 print(name)
 print(age)
+
+## GitHubで覚えたこと
+
+- `clone` はGitHubのリポジトリをMacにコピーすること
+- `push` はMacの変更をGitHubに送ること
+- `pull` はGitHubの変更をMacに取り込むこと
+- `commit` は変更のセーブポイント
+- `status` は現在の状態確認
