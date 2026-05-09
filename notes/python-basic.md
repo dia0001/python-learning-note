@@ -25,3 +25,4 @@ print(age)
 - `commit` は変更のセーブポイント
 - `status` は現在の状態確認
 - GitHubに行くのは push の時点
+- branchは実験用の作業ルート
