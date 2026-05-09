@@ -24,3 +24,4 @@ print(age)
 - `pull` はGitHubの変更をMacに取り込むこと
 - `commit` は変更のセーブポイント
 - `status` は現在の状態確認
+- GitHubに行くのは push の時点
